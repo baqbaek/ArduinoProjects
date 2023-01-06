@@ -1,5 +1,5 @@
 # ArduinoProjects
-ardino projects for my subject in college
+arduino projects for my subject in college
 
 --DISCLAIMER--
 
